@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Sept. 2024 - today: **Sun Yat-sen University (SYSU), Guangzhou, China**
+
+* **Master** in Integrated Circuit Science and Engineering
+* Advisor: **Prof. Mingyu Wang**
+
+
+Sept. 2020 – Jun. 2024: **Sun Yat-sen University (SYSU), Guangzhou, China**
+
+* BEng in Microelectronics Science and Engineering
+* GPA: 3.8/4
 
 Work experience
 ======
