@@ -18,10 +18,12 @@ author_profile: true
 ### LRM-GPU: Alleviating Synchronization Overhead for Multi-Chiplet GPU Architecture
 - Baiqing Zhong, Zhirong Ye, Xiaojie Li, **Peilin Wang**, Haiqiu Huang, Zhaolin Li, Zhiyi Yu, Mingyu Wang
 - 2026 IEEE International Symposium on High Performance Comuputer Architecture (HPCA)
+- DOI: [10.1109/HPCA68181.2026.11408473](https://ieeexplore.ieee.org/document/11408473)
 
 ### NBCache: An Efficient and Scalable Non-Blocking Cache for Coherent Multi-Chiplet Systems
 - Zhirong Ye, Yongchang Zhang, **Peilin Wang**, Tao Lu, Zhaolin Li, Zhiyi Yu, Mingyu Wang
 - 2026 Asia and South Pacific Design Automation Conference (ASP-DAC)
+- DOI: [10.1109/ASP-DAC66049.2026.11420550](https://ieeexplore.ieee.org/abstract/document/11420550)
 
 ### FSMA: Fine-Grained Inter-Layer Scheduling and Mapping Co-Exploration Framework for Chiplet-Based DNN Accelerators
 - Tao Lu, Yongchang Zhang, **Peilin Wang**, Haiqiu Huang, Zhirong Ye, Mingyu Wang
@@ -29,7 +31,7 @@ author_profile: true
 - DOI: [10.1109/LES.2025.3590369](https://doi.org/10.1109/LES.2025.3590369)
 
 
-> *Last edited in 2026.1*
+> *Last edited in 2026.4*
 
 
 
