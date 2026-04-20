@@ -17,7 +17,8 @@ Peilin Wang is currently a Master student in [MST, SYSU](https://mst.sysu.edu.cn
 
 # News
 
-* [2026.1] One paper accepted by IEEE Computer Architecture Letters
+* [2026.4] One paper accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* [2026.1] One paper accepted by IEEE Computer Architecture Letters (CAL)
 * [2024.9] Started my Master at Sun Yat-Sen University.
 * [2024.6] Graduated from Sun Yat-Sen University.
 

@@ -7,9 +7,13 @@ author_profile: true
 
 # 2026
 
+### In/Outbound Swap: A Backtracking-based Deadlock Recovery Mechanism for Multi-Chiplet Networks
+- **Peilin Wang**, Mingyu Wang, Zhirong Ye, Tao Lu, Zhiyi Yu
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
 ### UniCNet: Unified Cycle-Accurate Simulation for Composable Chiplet Network with Modular Design-Integration Workflow
 - **Peilin Wang**, Mingyu Wang, Zhirong Ye, Tao Lu, Zhiyi Yu
-- IEEE Computer Architecture Letters
+- IEEE Computer Architecture Letters (CAL)
 - DOI: [10.1109/LCA.2026.3653809](https://ieeexplore.ieee.org/document/11347548)
 - Code: [UniCNet](https://github.com/wangplin/CAL-UniCNet)
 
