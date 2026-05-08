@@ -22,7 +22,7 @@ author_profile: true
 
 ### LRM-GPU: Alleviating Synchronization Overhead for Multi-Chiplet GPU Architecture
 - Baiqing Zhong, Zhirong Ye, Xiaojie Li, **Peilin Wang**, Haiqiu Huang, Zhaolin Li, Zhiyi Yu, Mingyu Wang
-- 2026 IEEE International Symposium on High Performance Comuputer Architecture (HPCA)
+- 2026 IEEE International Symposium on High Performance Computer Architecture (HPCA)
 - DOI: [10.1109/HPCA68181.2026.11408473](https://ieeexplore.ieee.org/document/11408473)
 
 ### NBCache: An Efficient and Scalable Non-Blocking Cache for Coherent Multi-Chiplet Systems

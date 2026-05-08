@@ -11,7 +11,7 @@ redirect_from:
 
 *Sun Yat-Sen University (SYSU)*
 
-Peilin Wang is currently a Master student in [MST, SYSU](https://mst.sysu.edu.cn/) under the supervision of [Prof. Mingyu Wang](https://mst.sysu.edu.cn/teacher/wangmingyu). His research interests include **chiplet-based architecture, on-chip/package network and multi-chip GPU**. He received the degree of BEng in Microelectronics Science and Engineering from School of Microelectronics Science and Techonology, Sun Yat-Sen University (SYSU).
+Peilin Wang is currently a Master student in [MST, SYSU](https://mst.sysu.edu.cn/) under the supervision of [Prof. Mingyu Wang](https://mst.sysu.edu.cn/teacher/wangmingyu). His research interests include **chiplet-based architecture, on-chip/package network and multi-chip GPU**. He received the degree of BEng in Microelectronics Science and Engineering from School of Microelectronics Science and Technology, Sun Yat-Sen University (SYSU).
 
 
 
