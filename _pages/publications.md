@@ -7,6 +7,12 @@ author_profile: true
 
 # 2026
 
+
+### MAX-SM: High-Utilization Dynamic SM Partitioning for Heterogeneous Workloads on Multitasking Chiplet-Based GPUs
+
+- Mingyu Wang, Tao Lu, **Peilin Wang**, Baiqing Zhong, Yongchang Zhang, Zhaolin Li, Zhiyi Yu
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+
 ### In/Outbound Swap: A Backtracking-based Deadlock Recovery Mechanism for Multi-Chiplet Networks
 - **Peilin Wang**, Mingyu Wang, Zhirong Ye, Tao Lu, Zhiyi Yu
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
@@ -36,7 +42,7 @@ author_profile: true
 - DOI: [10.1109/LES.2025.3590369](https://doi.org/10.1109/LES.2025.3590369)
 
 
-> *Last edited in 2026.4*
+> *Last edited in 2026.6*
 
 
 
