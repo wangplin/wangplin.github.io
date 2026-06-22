@@ -12,6 +12,7 @@ author_profile: true
 
 - Mingyu Wang, Tao Lu, **Peilin Wang**, Baiqing Zhong, Yongchang Zhang, Zhaolin Li, Zhiyi Yu
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- DOI: [10.1109/TPDS.2026.3704709](https://ieeexplore.ieee.org/document/11569358)
 
 ### In/Outbound Swap: A Backtracking-based Deadlock Recovery Mechanism for Multi-Chiplet Networks
 - **Peilin Wang**, Mingyu Wang, Zhirong Ye, Tao Lu, Zhiyi Yu
