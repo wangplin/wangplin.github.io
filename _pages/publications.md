@@ -7,6 +7,10 @@ author_profile: true
 
 # 2026
 
+### NDM-GPU: Orchestrating Near-Data Processing for Remote Transactions in Multi-Chiplet GPUs
+
+- Baiqing Zhong, Shenglong Li, Zhirong Ye, **Peilin Wang**, Zhiyi Yu, Zhaolin Li, Mingyu Wang
+- 2027 IEEE International Symposium on High Performance Computer Architecture (HPCA)
 
 ### MAX-SM: High-Utilization Dynamic SM Partitioning for Heterogeneous Workloads on Multitasking Chiplet-Based GPUs
 
@@ -43,7 +47,7 @@ author_profile: true
 - DOI: [10.1109/LES.2025.3590369](https://doi.org/10.1109/LES.2025.3590369)
 
 
-> *Last edited in 2026.6*
+> *Last edited in 2026.11*
 
 
 
